@@ -1,6 +1,8 @@
 # HTTP Server python
 
 ### Task-description
+*sorry for german*
+
 **Schreiben Sie ein Programm, welches die Prozesse P0, . . . , P6 startet, welche folgende Eigenschaften aufweisen:**
 * Jeder Prozess startet mit Hilfe von http.server.HTTPServer einen HTTP Server auf einem eigenen Port. Der Prozess Pi bindet z.B. den Port 17300 + i.
 * Jeder Prozess Pi hat einen Zustand Si, welcher initial zufällig aus {0, . . . , 9} gewählt wird. Dieser Zustand wird bei einem HTTP GET zugänglich gemacht wird.2
